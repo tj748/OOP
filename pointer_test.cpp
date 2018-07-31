@@ -1,3 +1,6 @@
+// Tracy Joseph
+// Assignment 6B: Pointers and Sizes of Variables
+
 #include "std_lib_facilities.h"
 
 int main() {
