@@ -1,7 +1,12 @@
 // Tracy Joseph
 // Assignment 8: Customizing the Calculator
 
-// 
+// I have chosen to add finding the nth root of a number to my calulator (i.e. 5_32 would return 2)
+// I have also chosen to add bitwise operations
+	// (bit and) & copies a bit to the result if it exists in both operands.
+	// (bit or) | copies a bit if it exists in either operand.
+	// (bit left shift) < left operands value is moved left by the number of bits specified by the right operand.
+	// (bit right shift) >  left operands value is moved right by the number of bits specified by the right operand. 
 
 #include "std_lib_facilities.h"
 #include "custom_tokens.h"
